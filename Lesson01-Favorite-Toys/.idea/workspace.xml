@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29eb22b1-961f-4ffe-9803-87f3e42e491a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,46 +28,57 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="3" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="5" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="3" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="xml" value="104" />
+          <entry key="java" value="175" />
+          <entry key="xml" value="144" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="XML" value="104" />
+          <entry key="JAVA" value="175" />
+          <entry key="XML" value="144" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="15" selection-start-line="15" selection-end-line="16" />
+            <state relative-caret-position="385">
+              <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/build.gradle">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="68">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/ToyBox.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -82,12 +93,14 @@
       <list>
         <option value="$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/build.gradle" />
         <option value="$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="104" />
-    <option name="y" value="31" />
+    <option name="x" value="201" />
+    <option name="y" value="49" />
     <option name="width" value="1488" />
     <option name="height" value="1000" />
   </component>
@@ -226,25 +239,25 @@
             <path>
               <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="T01.01-Exercise-CreateLayout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="T01.01-Exercise-CreateLayout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="T01.01-Exercise-CreateLayout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="T01.01-Exercise-CreateLayout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -252,7 +265,62 @@
             <path>
               <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="T01.01-Exercise-CreateLayout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="android" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="example" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="android" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="favoritetoys" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -261,7 +329,7 @@
             <path>
               <item name="Lesson01-Favorite-Toys" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="T01.01-Exercise-CreateLayout" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="T01.02-Exercise-DisplayToyList" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="app" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
@@ -641,11 +709,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="104" y="31" width="1488" height="1000" extended-state="0" />
+    <frame x="201" y="49" width="1488" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.19117647" />
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.19117647" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
@@ -662,7 +730,7 @@
       <window_info anchor="right" id="Device File Explorer" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Theme Preview" />
-      <window_info active="true" anchor="right" id="Preview" visible="true" weight="0.32913166" />
+      <window_info anchor="right" id="Preview" weight="0.32913166" />
       <window_info anchor="right" id="Palette&#9;" />
     </layout>
   </component>
@@ -704,11 +772,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/T01.01-Exercise-CreateLayout/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="15" selection-start-line="15" selection-end-line="16" />
+        <state relative-caret-position="385">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/ToyBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="27" column="34" lean-forward="true" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/T01.02-Exercise-DisplayToyList/app/src/main/java/com/example/android/favoritetoys/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
